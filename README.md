@@ -14,4 +14,4 @@ Twitterで脳内を垂れ流していますが技術系のツイートをする�
 ### Service status
 |サービス|ステータス|
 |--|--|
-|[azukibar.dev](https://azukibar.dev)|[![Netlify Status](https://api.netlify.com/api/v1/badges/f282c881-f63c-4632-b945-8ad51fb6fca6/deploy-status)](https://app.netlify.com/sites/azukibar/deploys)|
+|[azukibar.dev](https://azukibar.dev)|[![Netlify Status](https://api.netlify.com/api/v1/badges/f282c881-f63c-4632-b945-8ad51fb6fca6/deploy-status)]()|
